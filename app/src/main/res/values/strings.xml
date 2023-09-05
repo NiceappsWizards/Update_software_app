@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Update Softwares</string>
+    <string name="update">Update</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="heading">heading</string>
+    <string name="check_and_update_all_your_apps">Check And Update All Your Apps</string>
+    <string name="update_software">Update Software</string>
+    <string name="delete">Delete</string>
+    <string name="check_update">check update</string>
+
+    <array name="duration">
+        <item>TODAY</item>
+        <item>YESTERDAY</item>
+        <item>THIS WEEK</item>
+        <item>THIS MONTH</item>
+    </array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="update_downloaded" />
+    <string name="restart" />
+    <string name="latest_updades">Latest Updades</string>
+    <string name="system_update">System Update</string>
+    <string name="check_your_latest_mobile_update_which_you_need_for_your_mobile">Check your latest mobile update which you need for your mobile</string>
+    <string name="app_usage">App Usage</string>
+    <string name="downloaded_apps">Downloaded Apps</string>
+    <string name="scan_apps">Scan Apps</string>
+    <string name="scan_your_mobile_phone_apps_which_apps_available_for_update_on_time">Scan your mobile phone apps which apps available for update on time</string>
+    <string name="Scaning">Scaning...</string>
+    <string name="software_update">Software Update</string>
+    <string name="checking_updates">Checking Updates</string>
+    <string name="total_update_found">Total Update Found</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="more_apps">More Apps</string>
+    <string name="quit">Quit</string>
+    <string name="scan_apps_for_check_updates">Scan apps for check updates</string>
+</resources>
